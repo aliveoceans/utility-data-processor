@@ -1,2 +1,0 @@
-Name: ALICE, Age: 30
-Name: CHARLIE, Age: 25
